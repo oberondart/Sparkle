@@ -1,12 +1,12 @@
-# Tulip
-Tulip is a lightweight, minimalistic scripting language made in Lua
+# Sparkle 
+Sparkle is a lightweight, minimalistic scripting language made in Lua
 
 It focuses and simplicitiy and explicit behavior
 
 # Language Guide
 
 ```
-lua tulip.lua script.tulip -- run a .tulip script
+lua sparkle.lua script.sparkle -- run a .sparkle script
 ```
 
 ```
