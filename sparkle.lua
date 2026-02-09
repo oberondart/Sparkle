@@ -3,7 +3,7 @@ standard_functions = require 'standardlib'
 
 local filename = arg[1]
 if not filename then
-    print("Usage: tulip <script.spark>")
+    print("Usage: spark <script.spark>")
     return
 end
 
